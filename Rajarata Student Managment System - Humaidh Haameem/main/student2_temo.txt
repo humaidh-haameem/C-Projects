@@ -1,0 +1,8 @@
+Tharmini201	EET		2	F	3	1
+Rasa	533	EET		1	M	4	1
+Irshath	291	MTT		4	M	3	1
+Aashif	431	ICT		1	M	3	0
+Shafnam	153	FDT		1	F	4	1
+Faseem	716	ICT		2	M	2	1
+Afrin	872	BPT		4	F	1	1
+Humaidh	541	ICT		4	M	3	1
